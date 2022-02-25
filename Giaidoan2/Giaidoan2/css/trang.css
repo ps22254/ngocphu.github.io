@@ -1,0 +1,43 @@
+
+#noidung{
+    width: 560px;
+    height: 100%;
+    float: left;
+    padding: 10px 20px;
+
+}
+.noidung1{
+    height: 240px;
+    border: 1px solid rosybrown;
+    border-radius: 5px;
+    margin-top: 7px;
+}
+
+
+#noidung ul {
+    margin: 0px;
+    padding: 0px;
+}
+#noidung ul li{
+    list-style: none;
+}
+
+#noidung ul li img{
+    float: left;
+    border-radius: 7px;
+}
+#noidung ul li h4{
+    text-indent: 1.5em;
+}
+#noidung ul li h4:hover{
+    color: red;
+    text-decoration: underline;
+}
+#noidung ul li p{
+    text-indent: 1.5em;
+     bottom: 2px;
+}
+#noidung ul li img:hover{
+    box-shadow:  0 0 12px blue;
+    background: white;
+}
